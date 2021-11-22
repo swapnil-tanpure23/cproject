@@ -72,7 +72,7 @@
 			delay(700);
 			textcolor(RED);
 			gotoxy(25,25);
-			cprintf("\nA PROJECT BY BIDUR & SUJAN");
+			cprintf("\nA PROJECT BY Swapnil Tanpure");
 			delay(1500);
 			exit(1);
 	  }
